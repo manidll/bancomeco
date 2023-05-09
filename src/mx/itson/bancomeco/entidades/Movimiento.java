@@ -7,7 +7,7 @@ package mx.itson.bancomeco.entidades;
 import java.util.Date;
 /**
  *
- * @author egarz
+ * @author EMMANUEL KK
  */
 public class Movimiento {
 
